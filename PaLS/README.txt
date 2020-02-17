@@ -1,5 +1,7 @@
 README.txt
 
+PaLS Code based on journal article seen here: https://arxiv.org/pdf/1007.2467.pdf (copy also present in repo).
+
 levenbergmarquardt.m is the main m-file for optimization, takes inputs listed in file
 
 The following m-files are used in the execution of levenbergmarquardt.m:	
